@@ -1,0 +1,26 @@
+.btn-add-branch:hover {
+    background-color: #7E8EF1;
+    color: #EEEEEE;
+    transition: 0.3s;
+}
+.btn-add-branch {
+    color: #fff;
+    background-color: #615EFC;
+    transition: 0.3s;
+}
+
+.btn-add-sub-branch:hover {
+    background-color: #7E8EF1;
+    color: #EEEEEE;
+    transition: 0.3s;
+}
+.btn-add-sub-branch {
+    color: #fff;
+    background-color: #615EFC;
+    transition: 0.3s;
+}
+
+
+thead{
+    background-color: #D1D8C5;
+}
